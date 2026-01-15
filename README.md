@@ -21,8 +21,8 @@
 ---
 
 ## 仓库里有什么？
--仓库中主要是各个课程的真题。
--其他的复习资料，PPT等请参见百度网盘：链接: https://pan.baidu.com/s/1-3ezgrqEk7Q20LxRXypQbQ 提取码: dlmu
+- 仓库中主要是各个课程的真题。
+- 其他的复习资料，PPT等请参见百度网盘：链接: https://pan.baidu.com/s/1-3ezgrqEk7Q20LxRXypQbQ 提取码: dlmu
 
 
 ---
